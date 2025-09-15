@@ -4,7 +4,9 @@ A dynamic e-commerce website built with HTML, CSS, and JavaScript, featuring API
 
 This is a complete e-commerce website built from scratch using HTML, CSS, and modern JavaScript. It was developed as the final capstone project for the Apex Planet internship.
 
+**Live Demo:** [https://ashmitapramanick-12.github.io/ApexPlanet_task5/](https://ashmitapramanick-12.github.io/ApexPlanet_task5/)
 ---
+
 
 ## Features
 
